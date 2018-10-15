@@ -1,0 +1,25 @@
+{
+  "name": "bachlee/magento2-vietnamese",
+  "description": "Vietnamese language package for Magento 2",
+  "homepage": "https://phutungtot.com",
+  "type": "magento2-language",
+  "version": "1.0.1",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "bachlee",
+      "email": "bachlee89@gmail.com",
+      "homepage": "http://bachlee.com",
+      "role": "Founder"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
